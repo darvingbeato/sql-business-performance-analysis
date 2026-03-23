@@ -50,3 +50,7 @@ SQL data transformation (CTEs, aggregations)
 KPI design & business logic
 Dashboard development (Power BI)
 Analytical thinking & insight generation
+
+**Dashboard Preview**
+<img width="1314" height="927" alt="image" src="https://github.com/user-attachments/assets/06982f7c-672a-4d9e-ad04-3b0cfd515914" />
+
