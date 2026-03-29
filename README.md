@@ -2,7 +2,7 @@
 
 This project analyzes monthly sales performance to identify growth drivers, risks, and business opportunities.
 
-<img width="1319" height="932" alt="image" src="https://github.com/user-attachments/assets/546135ce-b9a6-4c8b-b049-f41cbe948f53" />
+<img width="1319" height="934" alt="Dashboard" src="https://github.com/user-attachments/assets/2adcedef-0df1-4453-a60e-5a3d2bd3f560" />
 
 
 Built using:
