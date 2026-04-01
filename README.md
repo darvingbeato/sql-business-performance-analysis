@@ -1,6 +1,7 @@
 # Sales Performance Dashboard
 
 This project analyzes monthly sales performance to identify growth drivers, risks, and business opportunities.
+
 The analysis focuses on understanding whether growth is driven by:
 Increased demand (more orders), Higher customer spending (AOV) or Changes in purchasing behavior.
 
