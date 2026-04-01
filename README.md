@@ -32,9 +32,8 @@ To further investigate the AOV increase, a basket size analysis was performed.
 
 
 **Findings:**
-Average units per order increased from 2 to 3 items.
-Higher proportion of 4+ item orders.
-Shift toward larger basket sizes across months.
+<img width="615" height="93" alt="image" src="https://github.com/user-attachments/assets/c0d0dab3-4252-40b2-adb7-29137dca3e12" />
+Large baskets (4+ items) grew +14.4%, while smaller baskets declined ~10–12%, confirming that AOV growth was driven by a shift toward higher-volume orders.
 
 
 **Conclusion:**
