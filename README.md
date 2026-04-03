@@ -7,10 +7,11 @@ This analysis identifies the true growth driver, uncovers the root cause, and hi
 
 Revenue increased **+3.33% MoM**, but this growth was not driven by demand.
 Instead, it was driven by an increase in Average Order Value (AOV), while total orders declined.
-Extracted and transformed data using SQL and developed an interactive dashboard in Power BI. I recommended the team to launch re-engagement campaigns targeting inactive or low-frequency customers to Increase Order Volume. Continue promoting Product bundles, Cross-sell / upsell strategies to maintain High AOV
+Extracted and transformed data using SQL and developed an interactive dashboard in Power BI. I recommended the team to launch re-engagement campaigns targeting inactive or low-frequency customers to Increase Order Volume. Continue promoting Product bundles, Cross-sell / upsell strategies to maintain High AOV.
 
 
 <img width="1317" height="930" alt="image" src="https://github.com/user-attachments/assets/9a76c589-facb-495b-8318-5815a81abb29" />
+
 
 
 
@@ -19,6 +20,11 @@ Extracted and transformed data using SQL and developed an interactive dashboard 
 
 1. Extracted and transformed data using SQL
 2. Built structured pipelines using:
+
+   2.1 CTEs (Common Table Expressions)
+
+   2.2 Aggregations and KPI calculations
+    
 3. Designed key business metrics:
    
      3.1 Revenue
@@ -30,7 +36,7 @@ Extracted and transformed data using SQL and developed an interactive dashboard 
      3.4 Month-over-Month (MoM) growth
    
    
-5. Developed an interactive dashboard in Power BI for visualization
+4. Developed an interactive dashboard in Power BI for visualization
 
 
 **Key Metrics**
